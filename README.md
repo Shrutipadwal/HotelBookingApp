@@ -77,5 +77,5 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/HotelBookingApp.git
+   git clone https://github.com/Shrutipadwal/HotelBookingApp.git
    cd HotelBookingApp
