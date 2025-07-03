@@ -1,4 +1,4 @@
-![Screenshot (269)](https://github.com/user-attachments/assets/b70f9af9-7c35-4781-b712-9ee16a903418)# HotelBookingApp
+
 
 **StayEase** is a modern and minimalistic web application built to streamline hotel booking and management for both customers and hotel administrators. It follows the **Model-View-Controller (MVC)** design pattern and is developed using **Java**, **Spring Boot**, and **Thymeleaf**.
 
