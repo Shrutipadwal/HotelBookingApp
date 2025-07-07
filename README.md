@@ -70,12 +70,3 @@
 
 ## Screenshots
 
-tbd
-
-## Contribution
-
-Pull requests are welcome. For significant changes, kindly open an issue first to discuss the proposed modification.
-
-## License
-
-MIT License. Refer to `LICENSE` for more details.
