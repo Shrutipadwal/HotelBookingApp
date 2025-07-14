@@ -69,4 +69,22 @@
 7. Access the application via your browser at http://localhost:8080/.
 
 ## Screenshots
+- Home Page
+<img width="1206" height="568" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/f23abbde-6182-4a8a-a57d-6822422f933d" />
+
+- Registration and login page
+<img width="1280" height="563" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/d268955b-8fd7-49e2-a742-e291f18346a7" />
+<img width="1280" height="544" alt="Screenshot (267)" src="https://github.com/user-attachments/assets/a0a24958-bcdb-4e6d-b878-6823985d2e2d" />
+
+- Search Hotel & Booking Page
+<img width="1280" height="572" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/02ee5aff-f834-46a0-9d60-0a6154b6a922" />
+<img width="1280" height="572" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/c4ee49d9-6c57-4102-893c-1f1e0d641f78" />
+<img width="1280" height="579" alt="Screenshot (264)" src="https://github.com/user-attachments/assets/88533247-6b18-4cdb-b525-c9c8fcb5cf94" />
+
+- Payment Portal
+<img width="1280" height="602" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/ec6ff5a5-40b3-426d-9e02-f12f46db999d" />
+
+- Booking Confirmation
+<img width="1280" height="602" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/da6c8173-fb48-4beb-bfdf-c1dce2df33a6" />
+
 
