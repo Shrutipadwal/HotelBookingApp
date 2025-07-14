@@ -86,5 +86,7 @@
 
 - Booking Confirmation
 <img width="1280" height="602" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/da6c8173-fb48-4beb-bfdf-c1dce2df33a6" />
+<img width="1280" height="571" alt="Screenshot (261)" src="https://github.com/user-attachments/assets/97e8ce56-fdc0-4c48-9cb9-db7663c4d027" />
+
 
 
