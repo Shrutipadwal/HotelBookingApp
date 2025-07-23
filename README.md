@@ -46,7 +46,7 @@
 
 1. Clone the repository:
    ```sh
- https://github.com/Shrutipadwal/HotelBookingApp.git
+
    ```
    
 2. Navigate to the project directory::
