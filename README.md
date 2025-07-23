@@ -46,7 +46,7 @@
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/HotelBookingApp.git
+   git clone https://github.com/Shrutipadwal/HotelBookingApp.git
 
    ```
    
